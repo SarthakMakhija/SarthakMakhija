@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
 - :telescope: **Software Engineer** at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
@@ -28,7 +28,7 @@
 
 ---
 
-### :gear: Open-source projects :
+### :gear: Open-source projects
 
 Some of my open-source project include:
 
@@ -77,7 +77,20 @@ The complete list is available on my [blog](https://tech-lessons.in/en/page/proj
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :microphone: Workshops that I conduct
+
+  1. [**Gamifying Refactoring**](https://gamifying-refactoring.github.io/)
+
+  I created the idea of Gamifying refactoring which is run as a game (/mini workshop) in ThoughtWorks. The idea behind this game is to identify code smells, justify each of them by going beyond ilities, finish all of this in a fixed time and win points for your team.
+
+  2. [**Storage Engine**](https://github.com/SarthakMakhija/storage-engine-workshop)
+
+  This hands-on workshop focusses on building a tiny LSM-tree based storage engine. It covers the basics including: Hard disks, blocks, OS page cache, encoding, decoding, endianness, basics of B+Tree and detailed internals of LSM-tree. I am recreating the [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine for this workshop.
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -92,7 +105,7 @@ The complete list is available on my [blog](https://tech-lessons.in/en/page/proj
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarthakMakhija)](https://git.io/streak-stats)
 <br/>
@@ -100,7 +113,7 @@ The complete list is available on my [blog](https://tech-lessons.in/en/page/proj
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts
 
 Some of my latest blogs include:
 
