@@ -20,17 +20,60 @@
 
 ### :man_technologist: About Me :
 
-I’m working as a Software Engineer at ThoughtWorks.
+- :telescope: **Software Engineer** at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
+- :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
+- :zap: **Personal project**, working on LSM-tree based storage engine for educational purposes.
+- :blue_book: I love reading books, and currently I am reading **Designing Data-Intensive Applications** by Martin Kleppmann.
+- :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
-- :telescope: I am working on building a strongly consistent distributed Key/Value storage engine in golang.
+---
 
-- :writing_hand: In my free time, I write technical articles on my [blog](https://tech-lessons.in/en/).
+### :gear: Open-source projects :
 
-- :zap: Currently, I am working on building an [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine for education purposes.
+Some of my open-source project include:
 
-- :blue_book: I love reading books, and currently I am reading Designing Data-Intensive Applications by Martin Kleppmann
+[**Clearcheck**](https://github.com/SarthakMakhija/clearcheck)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
+Write expressive and elegant assertions with ease!
+
+clearcheck is designed to make assertion statements in Rust as clear and concise as possible.
+
+It allows chaining multiple assertions together for a fluent and intuitive syntax, leading to more self-documenting test cases.
+
+```rust
+let pass_phrase = "P@@sw0rd1 zebra alpha";
+pass_phrase.should_not_be_empty()
+    .should_have_at_least_length(10)
+    .should_contain_all_characters(vec!['@', ' '])
+    .should_contain_a_digit()
+    .should_not_contain_ignoring_case("pass")
+    .should_not_contain_ignoring_case("word");
+```
+
+[**blast**](https://github.com/SarthakMakhija/blast)
+
+blast is a load generator for TCP servers, especially if such servers maintain persistent connections. It is implemented in golang. It is used in my current project to do the load testing of the distributed key/value storage engine that we are building.
+
+[**CacheD**](https://github.com/SarthakMakhija/cached)
+
+CacheD is a high performance , LFU based in-memory cache in Rust inspired by Ristretto .
+
+```rust
+#[tokio::test]
+async fn put_a_key_value() {
+    let cached = CacheD::new(ConfigBuilder::new(COUNTERS, CAPACITY, CACHE_WEIGHT).build());
+    let acknowledgement =
+            cached.put("topic", "LFU cache").unwrap();
+     
+     let status = acknowledgement.handle().await;
+     assert_eq!(CommandStatus::Accepted, status);
+    
+     let value = cached.get(&"topic");
+     assert_eq!(Some("LFU cache"), value);
+}
+```
+
+The complete list is available on my [blog](https://tech-lessons.in/en/page/projects/).
 
 ---
 
