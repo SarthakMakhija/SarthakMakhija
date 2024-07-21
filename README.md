@@ -78,7 +78,7 @@ async fn put_a_key_value() {
 
 It has close to 1.7K [downloads](https://crates.io/crates/tinylfu-cached).
 
-The complete list is available on my [blog](https://tech-lessons.in/en/page/projects/).
+The complete list of my side projects is available on my [blog](https://tech-lessons.in/en/page/projects/).
 
 ---
 
