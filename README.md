@@ -51,13 +51,15 @@ pass_phrase.should_not_be_empty()
     .should_not_contain_ignoring_case("word");
 ```
 
+It has close to 950 [downloads](https://crates.io/crates/clearcheck).
+
 [**blast**](https://github.com/SarthakMakhija/blast)
 
 blast is a load generator for TCP servers, especially if such servers maintain persistent connections. It is implemented in golang. It is used in my current project to do the load testing of the distributed key/value storage engine that we are building.
 
 [**CacheD**](https://github.com/SarthakMakhija/cached)
 
-CacheD is a high performance , LFU based in-memory cache in Rust inspired by Ristretto .
+CacheD is a high performance, LFU based in-memory cache in Rust inspired by [Ristretto](https://github.com/dgraph-io/ristretto). 
 
 ```rust
 #[tokio::test]
@@ -73,6 +75,8 @@ async fn put_a_key_value() {
      assert_eq!(Some("LFU cache"), value);
 }
 ```
+
+It has close to 1.7K [downloads](https://crates.io/crates/tinylfu-cached).
 
 The complete list is available on my [blog](https://tech-lessons.in/en/page/projects/).
 
