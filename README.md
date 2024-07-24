@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me
 
-- :telescope: **Software Engineer** at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
+- :telescope: **Software Engineer**, (Lead Consultant), at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :zap: **Personal projects**, working on [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine and [Memcore](https://github.com/SarthakMakhija/memcore), a thread-per-core in-memory KV for educational purposes.
