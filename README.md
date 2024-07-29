@@ -22,7 +22,7 @@
 
 - :telescope: **Software Engineer**, (Lead Consultant), at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
-- :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
+- :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi. Additionally, I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
 - :zap: **Personal projects**, working on [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine and [Memcore](https://github.com/SarthakMakhija/memcore), a thread-per-core in-memory KV for educational purposes.
 - :blue_book: I love reading books, and currently I am reading **Designing Data-Intensive Applications** by Martin Kleppmann.
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
