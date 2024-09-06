@@ -113,7 +113,7 @@ The complete list of my side projects is available on my [blog](https://tech-les
 
 ### :fire: My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarthakMakhija)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarthakMakhija)](https://git.io/streak-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMakhija&layout=compact&exclude_repo=tech-lessons-posts,sarthakmakhija.github.io)
 
