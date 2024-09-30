@@ -24,7 +24,7 @@
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
-- :zap: **Personal projects**, working on [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine and [Memcore](https://github.com/SarthakMakhija/memcore), a thread-per-core in-memory KV for educational purposes.
+- :zap: **Personal projects**, I am learning [Zig](https://github.com/SarthakMakhija/zig-list/tree/main) for implementing [Raft](https://raft.github.io/).
 - :blue_book: I love reading books, and currently I am reading **Designing Data-Intensive Applications** by Martin Kleppmann.
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
@@ -33,6 +33,20 @@
 ### :gear: Open-source projects
 
 Some of my open-source project include:
+
+[**Go-LSM**](https://github.com/SarthakMakhija/go-lsm)
+
+LSM-based key-value store in Go for educational purpose.
+
+Rewrite of the existing workshop code.
+
+Inspired by [LSM in a Week](https://skyzh.github.io/mini-lsm/00-preface.html).
+
+**Exploring LSM with go-lsm**
+- **Learn LSM from the ground up**: Dive deep into the core concepts of Log-Structured Merge-Trees (LSM) through a practical, well-documented implementation.
+- **Benefit from clean code**: Analyze a meticulously crafted codebase that prioritizes simplicity and readability.
+- **Gain confidence with robust tests**: Verify the correctness and reliability of the storage engine through comprehensive tests.
+- **Experiment and extend**: Customize the code to explore different LSM variations or integrate it into your own projects.
 
 [**Clearcheck**](https://github.com/SarthakMakhija/clearcheck)
 
@@ -91,7 +105,7 @@ The complete list of my side projects is available on my [blog](https://tech-les
 
   2. [**Storage Engine**](https://github.com/SarthakMakhija/storage-engine-workshop)
 
-  This hands-on workshop focusses on building a tiny LSM-tree based storage engine. It covers the basics including: Hard disks, blocks, OS page cache, encoding, decoding, endianness, basics of B+Tree and detailed internals of LSM-tree. I am recreating the [LSM-tree](https://github.com/SarthakMakhija/go-lsm) based storage engine for this workshop.
+  This hands-on workshop focusses on building a tiny LSM-tree based storage engine. It covers the basics including: Hard disks, blocks, OS page cache, encoding, decoding, endianness, basics of B+Tree and detailed internals of LSM-tree. The LSM-based storage engine code is available [here](https://github.com/SarthakMakhija/go-lsm).
 
 
 ---
@@ -117,8 +131,7 @@ The complete list of my side projects is available on my [blog](https://tech-les
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMakhija&layout=compact&exclude_repo=tech-lessons-posts,sarthakmakhija.github.io)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMakhija&layout=compact&exclude_repo=tech-lessons-posts,sarthakmakhija.github.io&langs_count=8)
 ---
 
 ### :writing_hand: Blog Posts
