@@ -20,12 +20,12 @@
 
 ### :man_technologist: About Me
 
-- :telescope: **Software Engineer**, (Lead Consultant), at ThoughtWorks. Building a strongly consistent distributed Key/Value storage engine in Go.
+- :telescope: **Princial architect, Caizin**.
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
-- :zap: **Personal projects**, I am learning [Zig](https://github.com/SarthakMakhija/zig-list/tree/main) for implementing [Raft](https://raft.github.io/).
-- :blue_book: I love reading books, and currently I am reading **Designing Data-Intensive Applications** by Martin Kleppmann.
+- :zap: **Personal projects**, I am building a tiny database: [gorel](https://github.com/SarthakMakhija/gorel) for educational purposes.
+- :blue_book: I love reading books, and currently I am reading **Database design and implementation** by Edward Sciore.
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
 ---
@@ -96,6 +96,13 @@ It has close to 1.9K [downloads](https://crates.io/crates/tinylfu-cached).
 The complete list of my side projects is available on my [blog](https://tech-lessons.in/en/page/projects/).
 
 ---
+
+### :gear: Talks
+
+[Questioning datbase claim: Design patterns of storage engines](https://github.com/SarthakMakhija/questioning-database-claims-gocon24)
+
+I gave a talk on "Questioning database claims: Design patterns of storage engines” at GoConIndia24 on 2nd December.
+The idea of the talk was to understand various patterns of storage engines (/key-value storage engines) like persistence (WAL, fsync), efficient retrieval (B+tree, bloom filters, data layouts), efficient ingestion (Sequential IO, LSM, Wisckey) and then question variety of database claims like durability, read optimization, write optimization and pick the right database(s) for our use case.
 
 ### :microphone: Workshops that I conduct
 
