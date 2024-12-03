@@ -102,7 +102,8 @@ The complete list of my side projects is available on my [blog](https://tech-les
 [Questioning datbase claim: Design patterns of storage engines](https://github.com/SarthakMakhija/questioning-database-claims-gocon24)
 
 I gave a talk on "Questioning database claims: Design patterns of storage engines” at GoConIndia24 on 2nd December.
-The idea of the talk was to understand various patterns of storage engines (/key-value storage engines) like persistence (WAL, fsync), efficient retrieval (B+tree, bloom filters, data layouts), efficient ingestion (Sequential IO, LSM, Wisckey) and then question variety of database claims like durability, read optimization, write optimization and pick the right database(s) for our use case.
+
+The idea of the talk was to **understand various patterns of storage engines (/key-value storage engines)** like **persistence (WAL, fsync)**, **efficient retrieval (B+tree, bloom filters, data layouts)**, **efficient ingestion (Sequential IO, LSM, Wisckey)** and then **question** variety of **database claims** like **durability**, **read optimization**, **write optimization** and **pick** the **right** **database(s)** for our use case.
 
 ### :microphone: Workshops that I conduct
 
