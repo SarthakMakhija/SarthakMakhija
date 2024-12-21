@@ -104,6 +104,7 @@ The complete list of my side projects is available on my [blog](https://tech-les
 I gave a talk on "Questioning database claims: Design patterns of storage engines” at GoConIndia24 on 2nd December.
 
 The idea of the talk was to **understand various patterns of storage engines (/key-value storage engines)** like **persistence (WAL, fsync)**, **efficient retrieval (B+tree, bloom filters, data layouts)**, **efficient ingestion (Sequential IO, LSM, Wisckey)** and then **question** variety of **database claims** like **durability**, **read optimization**, **write optimization** and **pick** the **right** **database(s)** for our use case.
+The recording is available [here](https://www.youtube.com/watch?v=_55OM23zhUo&list=PLbgP71NCXCqG4xkCmsn5wSpW7bhypnqHI&index=10).
 
 ### :microphone: Workshops that I conduct
 
