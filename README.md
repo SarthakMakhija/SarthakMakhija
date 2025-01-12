@@ -136,9 +136,7 @@ The recording is available [here](https://www.youtube.com/watch?v=_55OM23zhUo&li
 
 ### :fire: My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SarthakMakhija)
-
-<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakMakhija&hide=contribs,prs,issues&show_icons=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMakhija&layout=compact&exclude_repo=tech-lessons-posts,sarthakmakhija.github.io&langs_count=8)
 ---
