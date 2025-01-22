@@ -24,7 +24,7 @@
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
-- :zap: **Personal projects**, I am building [Zero-Store](https://github.com/SarthakMakhija/zero-store/), a hybrid key/value store that combines the performance of in-memory operations with the durability of object storage.
+- :zap: **Personal projects**, I am building [picodb](https://github.com/SarthakMakhija/picodb) a relational database inspired by the book: Database design and implementation by Edward Sciore.
 - :blue_book: I love reading books, and currently I am reading **Database design and implementation** by Edward Sciore.
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
