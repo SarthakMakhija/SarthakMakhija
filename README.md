@@ -25,7 +25,8 @@
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
 - :zap: **Personal projects**, I am building [picodb](https://github.com/SarthakMakhija/picodb) a relational database inspired by the book: Database design and implementation by Edward Sciore.
-- :blue_book: I love reading books, and currently I am reading **Database design and implementation** by Edward Sciore.
+- :books: I love reading books, and currently I am reading **Database design and implementation** by Edward Sciore.
+- :blue_book: I enjoy teaching refactoring. My preferred method for teaching refactoring involves a combination of theoretical grounding from Martin Fowler's 'Refactoring' book and hands-on practice using refactoring katas like GildedRose and TaskList. My implementations are available here: [GildedRose](https://github.com/SarthakMakhija/gilded-rose-refactoring/) and [TaskList](https://github.com/SarthakMakhija/task-list-refactoring/).
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
 ---
@@ -144,6 +145,10 @@ The recording is available [here](https://www.youtube.com/watch?v=_55OM23zhUo&li
 ### :writing_hand: Blog Posts
 
 Some of my latest blogs include:
+
+- [**Refactoring Mindset**](https://tech-lessons.in/en/blog/refactoring_mindset/)
+
+My team and I had been reading 'Refactoring by Martin Fowler' and recently worked through the TaskList kata as a refactoring exercise. This experience inspired me to write this article, which focuses on cultivating a 'refactoring mindset' – a deliberate and proactive approach to consistently improve our code.
 
 - [**Many flavors of Networking IO**](https://tech-lessons.in/en/blog/many_flavors_of_networking_io/)
 
