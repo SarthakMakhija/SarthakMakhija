@@ -100,7 +100,7 @@ The complete list of my side projects is available on my [blog](https://tech-les
 
 ### :gear: Talks
 
-[Questioning datbase claim: Design patterns of storage engines](https://github.com/SarthakMakhija/questioning-database-claims-gocon24)
+[Questioning database claim: Design patterns of storage engines](https://github.com/SarthakMakhija/questioning-database-claims-gocon24)
 
 I gave a talk on "Questioning database claims: Design patterns of storage engines” at GoConIndia24 on 2nd December.
 
