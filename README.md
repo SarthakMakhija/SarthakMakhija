@@ -24,7 +24,7 @@
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
-- :zap: **Personal projects**, I am building [picodb](https://github.com/SarthakMakhija/picodb) a relational database inspired by the book: Database design and implementation by Edward Sciore.
+- :zap: **Personal projects**, I am building [cli-craft](https://github.com/SarthakMakhija/cli-craft/), a robust framework for building command-line interface (CLI) applications in Zig.
 - :blue_book: I enjoy teaching refactoring. My preferred method for teaching refactoring involves a combination of theoretical grounding from Martin Fowler's 'Refactoring' book and hands-on practice using refactoring katas like GildedRose and TaskList. My implementations are available here: [GildedRose](https://github.com/SarthakMakhija/gilded-rose-refactoring/) and [TaskList](https://github.com/SarthakMakhija/task-list-refactoring/).
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
