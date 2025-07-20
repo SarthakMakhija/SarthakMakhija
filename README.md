@@ -25,7 +25,6 @@
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
 - :zap: **Personal projects**, I am building [picodb](https://github.com/SarthakMakhija/picodb) a relational database inspired by the book: Database design and implementation by Edward Sciore.
-- :books: I love reading books, and currently I am reading **Database design and implementation** by Edward Sciore.
 - :blue_book: I enjoy teaching refactoring. My preferred method for teaching refactoring involves a combination of theoretical grounding from Martin Fowler's 'Refactoring' book and hands-on practice using refactoring katas like GildedRose and TaskList. My implementations are available here: [GildedRose](https://github.com/SarthakMakhija/gilded-rose-refactoring/) and [TaskList](https://github.com/SarthakMakhija/task-list-refactoring/).
 - :mailbox: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-makhija-7a165a55)
 
@@ -34,6 +33,26 @@
 ### :gear: Open-source projects
 
 Some of my open-source project include:
+
+[**Cli-Craft**](https://github.com/SarthakMakhija/cli-craft/)
+
+CliCraft is a a robust framework for building command-line interface (CLI) applications in Zig. It provides a structured and idiomatic way to define commands, subcommands, flags, and arguments, ensuring a robust and user-friendly experience.
+
+**Features**
+1. **Command Parsing and Execution:** Efficiently interpret and execute commands based on user input.
+2. **Parent and Child Commands:** Organize your CLI with parent and child commands, enabling clean, nested subcommands.
+3. **Command Aliases:** Support for alternative command names to enhance user convenience.
+4. **Flags:** Full support for defining and parsing command-line flags.
+5. **Local and Persistent Flags:** Distinguish between flags scoped to a specific command and those inherited by subcommands.
+6. **Typed Flags:** Built-in support for int64, bool, and string types.
+7. **Short Names for Flags:** Support for single-character aliases (e.g., -v for --verbose).
+8. **Arguments:** Define and validate positional arguments for your commands.
+9. **Argument Specification:** Specify argument rules such as exact, minimum, or maximum count.
+10. **Boolean Flags with and without Value:** Handle both implicit (--verbose) and explicit (--verbose true) boolean flag values.
+11. **Flags with Default Values:** Assign default values to flags, which are used if the flag is not provided by the user.
+12. **Help Command:** Automatically generated help command.
+13. **Help Flag:** Automatic --help or -h flag for each command and subcommand.
+14. **Robust and Tested:** Backed by extensive testing to ensure correctness and reliability..
 
 [**Go-LSM**](https://github.com/SarthakMakhija/go-lsm)
 
