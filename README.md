@@ -86,7 +86,7 @@ pass_phrase.should_not_be_empty()
     .should_not_contain_ignoring_case("word");
 ```
 
-It has close to 2K [downloads](https://crates.io/crates/clearcheck).
+It has close to 2.8K [downloads](https://crates.io/crates/clearcheck).
 
 [**blast**](https://github.com/SarthakMakhija/blast)
 
@@ -111,7 +111,7 @@ async fn put_a_key_value() {
 }
 ```
 
-It has close to 3K [downloads](https://crates.io/crates/tinylfu-cached).
+It has close to 4.5K [downloads](https://crates.io/crates/tinylfu-cached).
 
 The complete list of my side projects is available on my [blog](https://tech-lessons.in/en/page/projects/).
 
