@@ -21,6 +21,7 @@
 ### :man_technologist: About Me
 
 - :telescope: **Princial architect, Caizin**.
+- :six_pointed_star: Prior to joining Caizin, I was with Thoughtworks where I led a team that developed a strongly consistent, distributed key/value storage engine in Go. The distributed storage engine provided multi-raft, hash sharding, consistent hashing for distribution of shards, persistent TCP connections, two-phase commit with serial transaction isolation, used [etcd](https://github.com/etcd-io/etcd) as metadata store, and [badger](https://github.com/hypermodeinc/badger) as its storage engine.
 - :writing_hand: Passionate about **Distributed Systems and Storage engines**. In my free time, I share my learnings on my [blog](https://tech-lessons.in/en/).
 - :star: Contributed to the validation of distributed system patterns in the book [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/) by Unmesh Joshi.
 - :star: I authored articles on [persistent memory](https://kt.academy/article/pmem-intro) for the renowned author Marcin Moskala.
