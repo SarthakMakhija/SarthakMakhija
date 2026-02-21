@@ -35,6 +35,15 @@
 
 Some of my open-source project include:
 
+[**Relop**](https://github.com/SarthakMakhija/relop/)
+
+Relop is a minimal, in-memory implementation of relational operators built to explore query processing. It covers the entire pipeline from lexical analysis and parsing to logical planning and execution.
+
+**Key Features**
+1. **SQL Support**: Supports basic selection, filtering (`WHERE`), ordering, and joins.
+2. **Educational Focus**: Built with a focus on understanding the internals of a query engine, inspired by [Crafting Interpreters](https://craftinginterpreters.com/) and [Database Design and Implementation](https://link.springer.com/book/10.1007/978-3-030-33836-7).
+3. **End-to-End Pipeline**: Implements the query parsing flow including tokenization, AST generation, logical plans, and physical execution via iterators.
+
 [**Cli-Craft**](https://github.com/SarthakMakhija/cli-craft/)
 
 CliCraft is a a robust framework for building command-line interface (CLI) applications in Zig. It provides a structured and idiomatic way to define commands, subcommands, flags, and arguments, ensuring a robust and user-friendly experience.
@@ -53,7 +62,7 @@ CliCraft is a a robust framework for building command-line interface (CLI) appli
 11. **Flags with Default Values:** Assign default values to flags, which are used if the flag is not provided by the user.
 12. **Help Command:** Automatically generated help command.
 13. **Help Flag:** Automatic --help or -h flag for each command and subcommand.
-14. **Robust and Tested:** Backed by extensive testing to ensure correctness and reliability..
+14. **Robust and Tested:** Backed by extensive testing to ensure correctness and reliability.
 
 [**Go-LSM**](https://github.com/SarthakMakhija/go-lsm)
 
